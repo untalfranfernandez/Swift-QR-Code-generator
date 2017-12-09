@@ -5,7 +5,7 @@ This project intends to be a small wrapper around C++ code from https://github.c
 ### Build it
 #### Swift Package Manager
 1. `git clone git@github.com:fjfdeztoro/Swift-QR-Code-generator.git`
-2. `cd cd Swift-QR-Code-generator/`
+2. `cd Swift-QR-Code-generator/`
 3. `swift build && swift test`
 
 #### With Xcode
