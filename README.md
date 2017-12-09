@@ -1,4 +1,4 @@
-# QRCodeGenerator
+# QRCodeGenerator [![Build Status](https://travis-ci.org/fjfdeztoro/Swift-QR-Code-generator.svg?branch=master)](https://travis-ci.org/fjfdeztoro/Swift-QR-Code-generator)
 
 This project intends to be a small wrapper around C++ code from https://github.com/nayuki/QR-Code-generator in order to be able to use it with Swift easily.
 
