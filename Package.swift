@@ -23,5 +23,5 @@ let package = Package(
 )
 
 #if os(Linux)
-    package.dependencies.append(.package(url:"https://github.com/fjfdeztoro/SwiftNUStep", from: "0.0.1"))
+    package.dependencies.append(.package(url:"https://github.com/fjfdeztoro/SwiftNUStep", from: "0.0.2"))
 #endif
